@@ -31,3 +31,16 @@
 由於Godot本身的編譯器不夠完善，
 所以使用官方推薦的VSCode以及提供的功能擴展。
 ```
+```mermaid
+gantt
+    title work process
+    研擬計畫:a1, 2023-09-11, 1d
+    任務分配:a2, after a1, 4d
+    視覺辨識方案抉擇:a3, after a2, 7d
+    Godot3D基礎學習:a4, after a2, 14d
+    3D模型/動畫方案抉擇:a5, after a2, 14d
+    場景設計:a6, after a4 & a5, 14d
+    玩家/敵人設計:a7, after a4 & a5, 14d
+    視覺辨識連接/實作:a8, after a6 & a7, 14d
+    測試:a9, after a8, 7d
+```
