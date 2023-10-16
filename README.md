@@ -48,4 +48,4 @@ gantt
 
 ## PERT/CPM 圖
 
-![CPM](CPM.jpg "CPM")
+![CPM](關鍵路竟.jpg "CPM")
