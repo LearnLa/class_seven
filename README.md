@@ -45,3 +45,7 @@ gantt
     視覺辨識連接/實作:a8, after a6 & a7, 14d
     測試:a9, after a8, 7d
 ```
+
+## PERT/CPM 圖
+
+![CPM](CPM.jpg "CPM")
