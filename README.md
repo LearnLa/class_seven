@@ -69,3 +69,5 @@ gantt
 ### DFD
 
 ![DFD](DFD.jpg "DFD")
+
+![DFD 0](DFD0.png "DFD 0")
