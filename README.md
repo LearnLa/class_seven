@@ -36,7 +36,7 @@ gantt
     測試:a7, after a5 & a6, 14d
 ```
 ### PERT/CPM 圖
-![CPM](CPM.jpg "CPM")
+![CPM](CPM.png "CPM")
 ### 系統需求
 > * 功能性需求：
 > 1. 通過攝影機傳輸畫面給Mediapipe，以此將讀取到的手部座標輸入操控角色視角。
