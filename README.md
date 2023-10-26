@@ -33,7 +33,7 @@ gantt
     美術設計:a4, after a2, 28d
     關卡、系統設計:a5, after a3, 14d
     玩家、敵人設計:a6, after a3, 14d
-    測試:a9, after a5 & a6, 14d
+    測試:a7, after a5 & a6, 14d
 ```
 ### PERT/CPM 圖
 ![CPM](關鍵路竟.jpg "CPM")
