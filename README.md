@@ -90,7 +90,7 @@ gantt
 ---
 ### Figma
 
-![DFD](figma.png "DFD")
+![figma](figma.png "figma")
 ### DFD
 
 ![DFD](DFD.jpg "DFD")
