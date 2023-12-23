@@ -46,13 +46,13 @@
 ```mermaid
 gantt
     title Work process
-    研擬計畫:a1, 2023-10-19, 5d
+    研擬計畫:a1, 2023-11-08, 4d
     任務分配:a2, after a1, 4d
-    Godot2D基礎學習:a3, after a2, 14d
-    美術設計:a4, after a2, 28d
-    關卡、系統設計:a5, after a3, 14d
-    玩家、敵人設計:a6, after a3, 14d
-    測試:a7, after a5 & a6, 14d
+    Godot2D基礎學習:a3, after a2, 10d
+    美術設計:a4, after a2, 24d
+    關卡、系統設計:a5, after a3, 24d
+    玩家、敵人設計:a6, after a3, 24d
+    測試:a7, after a5 & a6, 7d
 ```
 ### PERT/CPM 圖
 ![CPM](CPM.png "CPM")
