@@ -52,7 +52,7 @@ gantt
     美術設計:a4, after a2, 24d
     關卡、系統設計:a5, after a3, 24d
     玩家、敵人設計:a6, after a3, 24d
-    測試:a7, after a5 & a6, 7d
+    測試:a7, after a5 & a6, 4d
 ```
 ### PERT/CPM 圖
 ![CPM](CPM.png "CPM")
